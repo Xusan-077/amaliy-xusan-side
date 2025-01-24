@@ -504,6 +504,8 @@ img {
 }
 .hero__input:focus {
   color: #fff;
+  border: none;
+  outline: none;
 }
 
 .hero__button {
